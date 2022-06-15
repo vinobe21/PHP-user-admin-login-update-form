@@ -1,0 +1,50 @@
+.error {
+    display: block;
+}
+
+.success {
+    display: none;
+}
+
+.input_err {
+    color: red;
+}
+
+.bg {
+    display: block;
+}
+
+
+/* 
+.form-group span:last-child {
+    color: red;
+    display: block;
+} */
+
+
+/* .error span {
+    color: red;
+    display: block;
+}
+
+.form-group .success span {
+    display: none;
+}
+
+.form-group span {
+    display: block;
+    color: red;
+}
+
+.form-group .error {
+    color: red;
+    display: block;
+}
+
+.form-group .success {
+    border-color: #2ecc71;
+}
+
+.form-group .error {
+    display: none;
+} */
